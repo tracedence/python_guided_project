@@ -16,7 +16,7 @@ Here is [a resource](http://www.careerbless.com/aptitude/qa/complex_numbers_imp.
 
 ### Questions:
 
-Define the follwoing operations for the class: 
+Define the following operations for the class: 
 
 * representation in the form of x + yi when used with `print` command
 * '+'
@@ -34,5 +34,3 @@ Also, define following methods.
 * imag() [Returns complex component of the complex number]
 * argument() [Returns argument of the complex number]
 * conjugate() [Returns conjugate of the complex number]
-
-Include error handling
