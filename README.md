@@ -7,6 +7,12 @@ Heya budding Data Scientists, today you are going to work along a guided project
 - Your program should be able to do basic operations such as addition, multiplication, subtraction, division etc.
 
 
+## Pre-requisites
+- Data structures
+- Working knowledge with class and functions
+- Working knowledge of operators in python
+- Application of basic mathematics
+
 Note:
 
 * You are not allowed to use any internal `complex number` library or a python package that handle complex numbers.
