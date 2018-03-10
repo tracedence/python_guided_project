@@ -1,5 +1,5 @@
 import unittest
-from inspect import getargspec
+from inspect import getfullargspec
 from ..build import complex_numbers
 from greyatomlib.python_guided_project.q01_create_class.build import complex_number
 import pandas as pd
