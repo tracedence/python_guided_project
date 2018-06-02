@@ -1,7 +1,7 @@
 import unittest
 from inspect import getfullargspec
-from ..build import complex_numbers
-from greyatomlib.python_guided_project.q01_create_class.build import complex_number
+from ..build import complex_number
+from greyatomlib.python_guided_project.q01_create_class.build import complex_numbers
 import pandas as pd
 import numpy as np
 import math
