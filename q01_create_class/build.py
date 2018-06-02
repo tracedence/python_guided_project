@@ -5,7 +5,7 @@ import math
 "write your solution here"
 
 
-class complex_numbers:
+class complex_number:
     """The complex number class.
 
     Attributes:
