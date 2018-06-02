@@ -1,7 +1,7 @@
 # Complex numbers
 This assigment comprises of applying the basics of python to create your own complex number calculator.
 
-## Define a class called `complex_numbers` which accepts 2 parameters:
+## Define a class called `complex_number` which accepts 2 parameters:
 
 * x: int64, float64, represents real component of the complex number
 * y: int64, float64, represents imaginary component of the complex number
