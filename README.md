@@ -30,10 +30,28 @@ You are expected to make a calculator that can handle 'complex number' operation
      
      
      ![alt text](/images/complex_quo.png)
-     
-     
 
-- Your program should be able to do basic operations such as addition, multiplication, subtraction, division etc.
+- 5. Absolute:
+     The absolute value of the complex number C= a+bi is the distance between the origin (0,0) and the point (a,b) in the complex plane
+     
+     ![alt text](/images/complex_absolute.png)
+ 
+ 6. Conjugate:
+    The conjugate of a complex number is the number with the same real part and an imaginary part equal in magnitude but opposite in sign  
+    
+    ![alt text](/images/complex_conjugate.png)
+    
+ 7. Argument:
+    The argument of a complex number C=a+ ib is 
+    
+    ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/1a6db59b906401c38a631b3049fce54d5672333f)
+       
+    For this task you can take it simply as,
+    
+    ![alt text](/images/complex_arg.png)
+    
+
+Here is [a resource](http://www.careerbless.com/aptitude/qa/complex_numbers_imp.php) to help you with the required information to solve this assignment.     
 
 
 ## Pre-requisites

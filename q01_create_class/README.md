@@ -1,6 +1,7 @@
 # Complex numbers
 This assigment comprises of applying the basics of python to create your own complex number calculator.
 
+## Task 1:
 ## Define a class called `complex_number` which accepts 2 parameters:
 
 * x: int64, float64, represents real component of the complex number
@@ -8,26 +9,24 @@ This assigment comprises of applying the basics of python to create your own com
 
 Example, `complex_numbers(3, 5)` means 3 is the real part of the complex number and 5 is the imaginary part of the complex number. Such a number is represented as 3 + 5i.
 
-Here is [a resource](http://www.careerbless.com/aptitude/qa/complex_numbers_imp.php) to help you with the required information to solve this assignment. You can take help from other online resources as well.
-
 ## Questions:
 
 Define the following operations for the class: 
 
 * representation in the form of x + yi when used with `print` command
-* '+'
-* '-'
-* '*'
-* '/'
-* abs()
+* '+' (complex number addition)
+* '-' (complex number subtraction)
+* '*' (complex number multiplication)
+* '/' (complex number division)
+
 
 * Note that these operations should be compatible with `int` and `float` datatypes as well
 
-Also, define following methods.
+Also, define the following methods.
 
-
-* real() [Returns real component of the complex number]
-* imag() [Returns complex component of the complex number]
-* argument() [Returns argument of the complex number]
-* conjugate() [Returns conjugate of the complex number]
+* abs() that returns absolute value of the complex number 
+* real() that returns real component of the complex number
+* imag() that returns complex component of the complex number
+* argument() that returns argument of the complex number
+* conjugate() that returns conjugate of the complex number
  
