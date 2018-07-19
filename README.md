@@ -37,16 +37,16 @@ You are expected to make a calculator that can handle 'complex number' operation
      ![alt text](/images/complex_absolute.png)
  
 - 6. Conjugate:
-    The conjugate of a complex number is the number with the same real part and an imaginary part equal in magnitude but opposite in sign  
+     The conjugate of a complex number is the number with the same real part and an imaginary part equal in magnitude but opposite in sign  
     
-    ![alt text](/images/complex_conjugate.png)
+     ![alt text](/images/complex_conjugate.png)
     
 - 7. Argument:
-    The argument of a complex number C=a+ ib is defined by [this](https://www.wikipedia.org/Argument_(complex_analysis))
+     The argument of a complex number C=a+ ib is defined by [this](https://www.wikipedia.org/Argument_(complex_analysis))
        
-    But for this task you can simply take it as,
+     But for this task you can simply take it as,
     
-    ![alt text](/images/complex_arg.png)
+     ![alt text](/images/complex_arg.png)
     
 
 Here is [a resource](http://www.careerbless.com/aptitude/qa/complex_numbers_imp.php) to help you with the required information to solve this assignment.     
