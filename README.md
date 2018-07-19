@@ -42,11 +42,9 @@ You are expected to make a calculator that can handle 'complex number' operation
     ![alt text](/images/complex_conjugate.png)
     
  7. Argument:
-    The argument of a complex number C=a+ ib is 
-    
-    ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/1a6db59b906401c38a631b3049fce54d5672333f)
+    The argument of a complex number C=a+ ib is defined by ![this ](https://wikimedia.org/api/rest_v1/media/math/render/svg/1a6db59b906401c38a631b3049fce54d5672333f)
        
-    For this task you can take it simply as,
+    But for this task you can simply take it as,
     
     ![alt text](/images/complex_arg.png)
     
