@@ -7,22 +7,22 @@ Heya budding Data Scientists, today you are going to work along a guided project
 You are expected to make a calculator that can handle 'complex number' operations.
 - 1. Addition:
      The sum of two complex numbers C= a+ ib and C'= a' + ib' is
-     ![alt text](https://raw.github.com/commit-live-students/python_guided_project/tree/master/images/complex_sum.png)
+     ![alt text](/images/complex_sum.png)
 
 - 2. Subtraction:
      The difference between two complex numbers C= a+ ib and C'= a' + ib' is 
-     ![alt text](https://github.com/commit-live-students/python_guided_project/tree/master/images/complex_diff.png)
+     ![alt text](/images/complex_diff.png)
 
 - 3. Multiplication:
      The product of two complex numbers C=a+ ib and C'= a' + ib' is
-     ![alt text](https://github.com/commit-live-students/python_guided_project/tree/master/images/complex_prod_1.png)
+     ![alt text](/images/complex_prod_1.png)
 
      The special case of a complex number C=a+ ib multiplied by a scalar a' is
-     ![alt text](https://github.com/commit-live-students/python_guided_project/tree/master/images/complex_prod_2.png)
+     ![alt text](/images/complex_prod_2.png)
  
 - 4. Division:
      The division of two complex numbers C= a+ ib and C'= a' + ib' is done by multiplying the numerator and denominator by the complex conjugate of the denominator
-     ![alt text](https://github.com/commit-live-students/python_guided_project/tree/master/images/complex_quo.png)
+     ![alt text](/images/complex_quo.png)
      
      
 
