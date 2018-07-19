@@ -7,7 +7,7 @@ Heya budding Data Scientists, today you are going to work along a guided project
 You are expected to make a calculator that can handle 'complex number' operations.
 - 1. Addition:
      The sum of two complex numbers C= a+ ib and C'= a' + ib' is
-     ![alt text](https://github.com/commit-live-students/python_guided_project/tree/master/images/complex_sum.png)
+     ![alt text](https://raw.github.com/commit-live-students/python_guided_project/tree/master/images/complex_sum.png)
 
 - 2. Subtraction:
      The difference between two complex numbers C= a+ ib and C'= a' + ib' is 
