@@ -49,8 +49,7 @@ You are expected to make a calculator that can handle 'complex number' operation
      ![alt text](/images/complex_arg.png)
     
 
-Here is [a resource](http://www.careerbless.com/aptitude/qa/complex_numbers_imp.php) to help you with the required information to solve this assignment.     
-
+Here is [a resource](http://www.careerbless.com/aptitude/qa/complex_numbers_imp.php) to help you with the underlying maths behind these operations.
 
 ## Pre-requisites
 - Data structures
