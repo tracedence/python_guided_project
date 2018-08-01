@@ -13,7 +13,6 @@ Example, `complex_numbers(3, 5)` means 3 is the real part of the complex number 
 
 Define the following operations for the class: 
 
-* representation in the form of x + yi when used with `print` command
 * '+' (complex number addition)
 * '-' (complex number subtraction)
 * '*' (complex number multiplication)
@@ -25,8 +24,6 @@ Define the following operations for the class:
 Also, define the following methods.
 
 * abs() that returns absolute value of the complex number 
-* real() that returns real component of the complex number
-* imag() that returns complex component of the complex number
 * argument() that returns argument of the complex number
 * conjugate() that returns conjugate of the complex number
  
