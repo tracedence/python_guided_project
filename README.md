@@ -8,7 +8,7 @@ You are expected to make a calculator that can handle 'complex number' operation
 - 1. Addition:
      The sum of two complex numbers C= a+ ib and C'= a' + ib' is 
      
-     ![alt text](https://github.com/commit-live-students/python_guided_project/blob/master/images/complex_sum.png)
+     ![alt text](/images/complex_sum.png)
 
 - 2. Subtraction:
      The difference between two complex numbers C= a+ ib and C'= a' + ib' is 
