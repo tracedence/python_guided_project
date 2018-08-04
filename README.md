@@ -8,45 +8,45 @@ You are expected to make a calculator that can handle 'complex number' operation
 - 1. Addition:
      The sum of two complex numbers C= a+ ib and C'= a' + ib' is 
      
-     ![alt text](/images/complex_sum.png)
+     ![alt text](/images/complex_sum.png?raw=true)
 
 - 2. Subtraction:
      The difference between two complex numbers C= a+ ib and C'= a' + ib' is 
      
-     ![alt text](/images/complex_diff.png)
+     ![alt text](/images/complex_diff.png?raw=true)
 
 - 3. Multiplication:
      The product of two complex numbers C=a+ ib and C'= a' + ib' is
      
-     ![alt text](/images/complex_prod_1.png)
+     ![alt text](/images/complex_prod_1.png?raw=true)
 
      
      The special case of a complex number C=a+ ib multiplied by a scalar a' is
      
-     ![alt text](/images/complex_prod_2.png)
+     ![alt text](/images/complex_prod_2.png?raw=true)
  
 - 4. Division:
      The division of two complex numbers C= a+ ib and C'= a' + ib' is done by multiplying the numerator and denominator by the complex conjugate of the denominator
      
      
-     ![alt text](/images/complex_quo.png)
+     ![alt text](/images/complex_quo.png?raw=true)
 
 - 5. Absolute:
      The absolute value of the complex number C= a+bi is the distance between the origin (0,0) and the point (a,b) in the complex plane
      
-     ![alt text](/images/complex_absolute.png)
+     ![alt text](/images/complex_absolute.png?raw=true)
  
 - 6. Conjugate:
      The conjugate of a complex number is the number with the same real part and an imaginary part equal in magnitude but opposite in sign  
     
-     ![alt text](/images/complex_conjugate.png)
+     ![alt text](/images/complex_conjugate.png?raw=true)
     
 - 7. Argument:
      The argument of a complex number C=a+ ib is defined by [this](https://www.wikipedia.org/Argument_(complex_analysis))
        
      But for this task you can simply take it as,
     
-     ![alt text](/images/complex_arg.png)
+     ![alt text](/images/complex_arg.png?raw=true)
     
 
 Here is [a resource](http://www.careerbless.com/aptitude/qa/complex_numbers_imp.php) to help you with the underlying maths behind these operations.
